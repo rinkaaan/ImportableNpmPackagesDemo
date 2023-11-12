@@ -1,1 +1,1 @@
-export const ImportableValue = "Hello world!";
+export const IMPORTABLE_VALUE = "Hello world!";

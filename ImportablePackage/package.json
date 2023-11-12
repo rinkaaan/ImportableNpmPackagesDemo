@@ -1,5 +1,6 @@
 {
-  "name": "@nguylinc/reusuable-package",
+  "name": "@nguylinc/importable-package",
+  "exports": "./index.js",
   "version": "1.0.0",
   "type": "module"
 }

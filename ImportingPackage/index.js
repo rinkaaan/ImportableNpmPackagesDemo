@@ -1,3 +1,3 @@
-import { ImportableValue } from "@nguylinc/importable-package";
+import { IMPORTABLE_VALUE } from "@nguylinc/importable-package";
 
-console.log(ImportableValue);
+console.log(IMPORTABLE_VALUE);
