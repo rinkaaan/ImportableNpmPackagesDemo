@@ -1,0 +1,9 @@
+{
+  "name": "@nguylinc/importingpackage",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@nguylinc/importable-package": "rinkaaan/ImportablePackage.git#semver:v1.0.0",
+    "@nguylinc/importable-package": "file:../ImportablePackage"
+  }
+}
