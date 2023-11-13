@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "dependencies": {
-    "@nguylinc/importable-package": "rinkaaan/ImportablePackage.git#semver:v1.0.0",
-    "@nguylinc/importable-package": "file:../ImportablePackage"
+    "@nguylinc/importable-package": "file:../ImportablePackage",
+    "@nguylinc/importable-package": "1.0.0"
   }
 }
