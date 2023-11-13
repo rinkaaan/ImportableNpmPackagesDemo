@@ -1,4 +1,4 @@
-# Importable NPM packages Demo
+# Importable NPM Packages Demo
 
 ## Setup
 
