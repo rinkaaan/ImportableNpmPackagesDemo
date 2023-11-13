@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Configure npm to use AWS CodeArtifact repository using `aws codeartifact login`.
+1. Configure npm to use AWS CodeArtifact repository using `aws codeartifact login`. Relevant documentation [here](https://docs.aws.amazon.com/codeartifact/latest/ug/npm-auth.html).
 2. Set up importing and dependent packages in same directory.
 3. Publish imported package to AWS CodeArtifact repository by running `npm publish`.
 4. Update importing package's package.json to include the dependent package as a dependency. Include both local path and CodeArtifact dependency. The latter is what will be used when you run `npm install`.
